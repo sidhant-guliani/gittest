@@ -1,6 +1,4 @@
 GIT .. forking and clonig tutorial!
-This is a change , lot of changes!
-this is a change!
 
  Step1: forking
  Step2: making changes in project/ (cloning project+ making changes + pushing the project to the remote repository)
